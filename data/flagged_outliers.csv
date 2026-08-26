@@ -1,0 +1,37 @@
+po_line_id,supplier,description,category_raw,category_true,unit_price,quantity,currency,price_z_score,category_median_price
+PO-101077-5,Wabco Holdings,Wooden pallet EUR standard,Packaging & Logistics,Packaging & Logistics,106.56,50,EUR,20.47,15.985
+PO-103224-3,Bosch Rexroth,Wooden pallet EUR standard,Packaging & Logistics,Packaging & Logistics,100.16,20,EUR,19.02,15.985
+PO-101981-6,Mahle GmbH,Wooden pallet EUR standard,Packaging & Logistics,Packaging & Logistics,78.7,20,EUR,14.17,15.985
+PO-100177-1,Haldex AB,Steel sheet NBR-70 1.5mm,Raw Materials - Steel,Raw Materials - Steel,183.78,100,EUR,-7.05,375.64
+PO-104119-2,Haldex AB,Steel sheet DC01 8.0mm,raw materials/steel,Raw Materials - Steel,224.0,10,EUR,-6.23,376.66999999999996
+PO-102365-5,Elringklinger AG,Steel sheet 60Sh-A 3.0mm,Raw Materials - Steel,Raw Materials - Steel,273.99,5,EUR,-5.88,403.69
+PO-100413-6,Freudenberg Sealing,order ref pending - Wooden pallet EUR standard,Pack & Log,Packaging & Logistics,20.55,10,EUR,5.86,13.16
+PO-101288-6,ZF Friedrichshafen,Steel sheet 60Sh-A 3.0mm,Steel,Raw Materials - Steel,275.61,2,EUR,-5.81,403.69
+PO-100270-3,Elringklinger AG,WOODEN PALLET EUR STANDARD,Packaging & Logistics,Packaging & Logistics,21.2,20,EUR,5.64,12.415
+PO-101597-7,Elringklinger AG,Wiring harness connector std,ELEC COMP,Electronic Components,84.83,200,EUR,5.56,30.38
+PO-101999-3,Haldex AB,Bearing assembly 24V,MRO - Maintenance Supplies,MRO - Maintenance Supplies,236.77,5,EUR,5.31,102.305
+PO-102603-5,SKF Group,STRETCH WRAP FILM V2 ROLL,Packaging & Logistics,Packaging & Logistics,22.02,50,EUR,-4.9,33.07
+PO-101245-5,Trelleborg Sealing,PCB ASSEMBLY STD,Electronic Components,Electronic Components,107.59,100,EUR,-4.85,187.69
+PO-102845-2,Haldex AB,Protective foam sheet 24V,Packaging & Logistics,Packaging & Logistics,26.91,5,EUR,4.81,18.845
+PO-101926-7,Continental AG,Bearing assembly compact,MRO,MRO - Maintenance Supplies,46.74,2,EUR,-4.6,176.11
+PO-103014-3,Bilstein GmbH,Bearing assembly compact,MRO - Maintenance Supplies,MRO - Maintenance Supplies,61.7,10,EUR,-4.07,176.11
+PO-103665-3,ZF Friedrichshafen,Rubber compound NBR-70 sheet,Raw Materials - Rubber,Raw Materials - Rubber,16.46,20,EUR,-3.87,37.21
+PO-103986-2,Mahle GmbH,WOODEN PALLET EUR STANDARD,Packaging & Logistics,Packaging & Logistics,18.39,5,EUR,3.84,12.415
+PO-101496-4,Schaeffler Technologies,Corrugated shipping crate M12,Packaging & Logistics,Packaging & Logistics,53.68,100,EUR,3.83,30.54
+PO-102695-6,Freudenberg Sealing,Bearing assembly M12,MRO - Maintenance Supplies,MRO - Maintenance Supplies,53.1,50,EUR,-3.81,197.53
+PO-101257-3,Mahle GmbH,Protective foam sheet compact,Packaging & Logistics,Packaging & Logistics,18.97,1,EUR,3.81,12.36
+PO-101578-2,Continental AG,Wooden pallet EUR stan,Packaging & Logistics,Packaging & Logistics,9.58,10,EUR,-3.66,19.78
+PO-102868-4,Trelleborg Sealing,WOODEN PALLET EUR STANDARD,Pack & Log,Packaging & Logistics,17.99,20,EUR,3.58,12.415
+PO-100595-6,Wabco Holdings,PCB assembly v3,Electronic Components,Electronic Components,218.1,20,EUR,3.35,63.51
+PO-104141-3,Freudenberg Sealing,Protective foam sheet 230V,PACKAGING,Packaging & Logistics,27.83,10,EUR,3.32,14.05
+PO-103513-5,ZF Friedrichshafen,Protective foam sheet 230V,Packaging & Logistics,Packaging & Logistics,27.75,20,EUR,3.3,14.05
+PO-103840-3,ZF Friedrichshafen,Industrial lubricant compact 20L drum,MRO/Maint,MRO - Maintenance Supplies,144.19,20,EUR,3.21,92.95
+PO-102982-6,Continental AG,Bearing assembly compact,MRO,MRO - Maintenance Supplies,86.01,50,EUR,-3.21,176.11
+PO-103256-7,Bosch Rexroth,Office chair ergonomic compact,IT & Office Equipment,IT & Office Equipment,120.84,50,EUR,-3.16,322.17999999999995
+PO-101431-2,Elringklinger AG,Bearing assembly 24V,MRO - Maintenance Supplies,MRO - Maintenance Supplies,182.09,200,EUR,3.15,102.305
+PO-100306-4,Continental AG,Office chair ergonomic compact,IT & Office Equipment,IT & Office Equipment,123.37,20,EUR,-3.12,322.17999999999995
+PO-103842-5,Haldex AB,Monitor 27in HD,IT EQUIP,IT & Office Equipment,161.33,100,EUR,-3.09,237.51
+PO-102604-6,Freudenberg Sealing,WOODEN PALLET EUR STANDARD,Packaging & Logistics,Packaging & Logistics,17.22,100,EUR,3.09,12.415
+PO-102250-2,Elringklinger AG,Wiring harness connector std,ELEC COMP,Electronic Components,60.03,50,EUR,3.03,30.38
+PO-100013-5,Voith Turbo,Hydraulic hose fitting 24V,,MRO - Maintenance Supplies,42.08,100,EUR,3.0,24.65
+PO-101812-5,Freudenberg Sealing,Monitor 27in Type-A,IT & Office Equipment,IT & Office Equipment,149.79,200,EUR,-3.0,280.1

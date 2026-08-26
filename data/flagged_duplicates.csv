@@ -1,0 +1,31 @@
+po_line_id,supplier,description,category_raw,category_true,unit_price,quantity,currency
+PO-103031-6,Bilstein GmbH,Monitor 27in Type-A,it/office,IT & Office Equipment,309.14,200,EUR
+PO-104214-4,Bilstein GmbH,Monitor 27in Type-A ,it/office,IT & Office Equipment,309.14,200,EUR
+PO-104205-4,Bosch Rexroth,order ref pending - Monitor 27in v3 ,IT & Office Equipment,IT & Office Equipment,270.2,2,EUR
+PO-103189-3,Bosch Rexroth,order ref pending - Monitor 27in v3,IT & Office Equipment,IT & Office Equipment,270.2,2,EUR
+PO-104210-7,Continental AG,Hydraulic hose iftting M12 ,MRO - Maintenance Supplies,MRO - Maintenance Supplies,41.79,5,EUR
+PO-102085-5,Continental AG,Hydraulic hose iftting M12,MRO - Maintenance Supplies,MRO - Maintenance Supplies,41.79,5,EUR
+PO-103222-1,Continental AG,Sealing gasket sheet S355,Raw Mat. Rubber,Raw Materials - Rubber,23.19,200,EUR
+PO-104206-7,Continental AG,Sealing gasket sheet S355 ,Raw Mat. Rubber,Raw Materials - Rubber,23.19,200,EUR
+PO-102354-1,Elringklinger AG,Wooden pallet EUR standard,packaging/logistics,Packaging & Logistics,21.2,20,EUR
+PO-100270-3,Elringklinger AG,WOODEN PALLET EUR STANDARD,Packaging & Logistics,Packaging & Logistics,21.2,20,EUR
+PO-102536-1,Freudenberg Sealing,Industrial lubricant 24V 20L rdum,MRO,MRO - Maintenance Supplies,126.9,50,EUR
+PO-104201-4,Freudenberg Sealing,Industrial lubricant 24V 20L rdum ,MRO,MRO - Maintenance Supplies,126.9,50,EUR
+PO-104213-5,Haldex AB,PROTECTIVE FOAM SHEE TTYPE-A ,Packaging & Logistics,Packaging & Logistics,19.58,1,EUR
+PO-102676-1,Haldex AB,PROTECTIVE FOAM SHEE TTYPE-A,Packaging & Logistics,Packaging & Logistics,19.58,1,EUR
+PO-104208-2,Haldex AB,Stretch wrap film M12 roll ,PACKAGING,Packaging & Logistics,19.22,10,EUR
+PO-101855-6,Haldex AB,Stretch wrap film M12 roll,PACKAGING,Packaging & Logistics,19.22,10,EUR
+PO-104203-7,Mahle GmbH,Monitor 27in M12 ,IT & Office Equipment,IT & Office Equipment,250.82,10,EUR
+PO-104194-7,Mahle GmbH,Monitor 27in M12,IT & Office Equipment,IT & Office Equipment,250.82,10,EUR
+PO-100866-4,Mahle GmbH,STEEL COIL HOT-ROLLED X5CRNI,RAW MAT-STEEL,Raw Materials - Steel,298.93,1,EUR
+PO-104204-3,Mahle GmbH,STEEL COIL HOT-ROLLED X5CRNI ,RAW MAT-STEEL,Raw Materials - Steel,298.93,1,EUR
+PO-104209-1,SKF Group,Seal kit connector housing v3 ,MRO,MRO - Maintenance Supplies,45.3,20,EUR
+PO-102301-4,SKF Group,Seal kit connector housing v3,MRO,MRO - Maintenance Supplies,45.3,20,EUR
+PO-101145-3,Schaeffler Technologies,Vulcanized rubber block DC01,RAW MAT-RUBBER,Raw Materials - Rubber,40.36,20,EUR
+PO-104207-4,Schaeffler Technologies,Vulcanized rubber block DC01 ,RAW MAT-RUBBER,Raw Materials - Rubber,40.36,20,EUR
+PO-104212-7,Trelleborg Sealing,Office chair ergonomic std ,IT & Office Equipment,IT & Office Equipment,314.76,10,EUR
+PO-100457-1,Trelleborg Sealing,Office chair ergonomic std,IT & Office Equipment,IT & Office Equipment,314.76,10,EUR
+PO-102098-4,Voith Turbo,Industrial lubricant 230V 20L drum,maintenance,MRO - Maintenance Supplies,98.73,2,EUR
+PO-104211-2,Voith Turbo,Industrial lubricant 230V 20L drum ,maintenance,MRO - Maintenance Supplies,98.73,2,EUR
+PO-104202-2,Wabco Holdings,Woodenp allet EUR standard ,packaging/logistics,Packaging & Logistics,17.91,200,EUR
+PO-100581-6,Wabco Holdings,Woodenp allet EUR standard,packaging/logistics,Packaging & Logistics,17.91,200,EUR
