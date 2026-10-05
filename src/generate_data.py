@@ -13,7 +13,7 @@ problems:
 3. Price outliers on an otherwise-consistent SKU (a common early signal
    of a pricing error or a data-entry mistake).
 
-All data is synthetic. No real Knorr-Bremse, supplier, or pricing data
+All data is synthetic. No real supplier or pricing data
 is used or implied anywhere in this project.
 """
 import csv
